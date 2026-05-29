@@ -128,4 +128,4 @@ All slicers and the timeline are connected to all three pivot charts via *Report
 ## Author
 
 **João Felicíssimo**  
-Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) | [GitHub](https://github.com/JoaoFelicissimo03)
+Data Analyst | [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) | [GitHub](https://github.com/JoaoFelicissimo03)
