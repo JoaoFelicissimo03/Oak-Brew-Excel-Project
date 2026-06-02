@@ -1,7 +1,8 @@
 # ☕ Oak Brew Coffee Shop — Sales Dashboard
 
 **Excel | Data Cleaning · Lookup Formulas · Pivot Tables · Interactive Dashboard**
-![Excel](https://img.shields.io/badge/excel-green?style=flat)
+
+![Excel](https://img.shields.io/badge/Excel-green?style=flat)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
 ---
